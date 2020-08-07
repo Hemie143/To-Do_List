@@ -1,5 +1,6 @@
 *.html
 *.yaml
 *.s3db
+*.db
 /venv/
 /.idea/
